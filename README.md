@@ -1,5 +1,4 @@
-# Py_to_Application
-Convert Python Code (.py) to Executable Application on Raspberry Pi
+# Convert Python Code (.py) to Executable Application on Raspberry Pi
 
 ## Requirements
 Pyinstaller : [link to PyInstaller package](https://pypi.org/project/pyinstaller/)
